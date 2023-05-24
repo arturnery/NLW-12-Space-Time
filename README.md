@@ -17,10 +17,6 @@ Programa exclusivo e gratuito, promovido pela Rockeatseat para ensino de tecnolo
 
 <br>
 
-<p align="center">
-  <img alt="projeto NLW 11 Setup" src=".github/preview.jpg" width="100%">
-</p>
-
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
