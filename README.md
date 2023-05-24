@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto Space TIme é um app que registra momentos importantes da historia do usuário.
 
-- [Visite o projeto online](https://arturnery.github.io/nlw-11-setup-explorer/)
+- [Visite o projeto online](https://arturnery.github.io/NLW-12-Space-Time)
 
 ## 🔖 Layout
 
